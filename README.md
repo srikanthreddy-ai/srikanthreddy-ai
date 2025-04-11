@@ -17,7 +17,7 @@ I'm a Cloud Engineer and AI enthusiast who loves blending infrastructure with in
 ## 🔗 Let's Connect
 - 💼 [LinkedIn](https://www.linkedin.com/in/srikanthreddy-ai/)
 - 🌐 [Portfolio](#) (Coming Soon!)
-- ✉️ Say hi: [srikanthreddy.ai@gmail.com](mailto:srikanthreddy.ai@gmail.com)
+- ✉️ Say hi: [srikanthreddy097@gmail.com](mailto:srikanthreddy097@gmail.com)
 
 ---
 
