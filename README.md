@@ -34,7 +34,7 @@ Node.js – For scalable, event-driven backend services
 
 PostgreSQL | MongoDB – Reliable relational and flexible NoSQL databases
 
-☁️ Cloud & DevOps
+☁️ Cloud & DevOps  </br>
 AWS | Azure – Cloud-native development, serverless, container orchestration
 
 Docker – Containerized environments for consistency and scalability
