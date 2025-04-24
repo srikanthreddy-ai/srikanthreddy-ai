@@ -4,7 +4,7 @@
 Bridging code, cloud, and intelligence to build future-ready platforms.
 
 
-<sup>📌 (Banner placeholder – see below for how to customize your own!)</sup>
+<sup>📌 https://github.com/srikanthreddy-ai/srikanthreddy-ai/blob/main/ChatGPT%20Image%20Apr%2024%2C%202025%2C%2001_39_46%20PM.png</sup>
 
 # 🧠 About Me
 I’m a Senior Software Engineer & AI Cloud Specialist passionate about designing and delivering intelligent, scalable, cloud-native solutions. With a strong foundation in DevOps, full-stack development, and AI integration, I lead cross-functional teams to build products that are both robust and innovative.
