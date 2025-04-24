@@ -20,7 +20,7 @@ I’m a Senior Software Engineer & AI Cloud Specialist passionate about designin
 👥 Mentor & Collaborator: I enjoy mentoring devs and driving high-impact engineering culture
 
 
-##🧰 Tech Stack & Tools I Love </br>
+# 🧰 Tech Stack & Tools I Love </br>
 # 💻 Languages & Frameworks   </br>
 Python – My go-to for AI, backend services, and automation
 
@@ -34,7 +34,7 @@ Node.js – For scalable, event-driven backend services
 
 PostgreSQL | MongoDB – Reliable relational and flexible NoSQL databases
 
-☁️ Cloud & DevOps  </br>
+# ☁️ Cloud & DevOps  </br>
 AWS | Azure – Cloud-native development, serverless, container orchestration
 
 Docker – Containerized environments for consistency and scalability
@@ -47,7 +47,7 @@ GitHub Actions – CI/CD workflows for automated testing and deployment
 
 Linux & Shell Scripting – Essential tools for automation and server-side scripting
  </br>
-🧠 AI & ML Tools  </br>
+# 🧠 AI & ML Tools  </br>
 OpenAI (GPT-4, Whisper) – Language understanding, generative tasks, assistants
 
 LangChain – Building LLM-powered applications and agents
@@ -58,7 +58,7 @@ Vector Databases (Pinecone, FAISS) – Semantic search & retrieval augmented gen
 
 Jupyter Notebooks – Exploratory ML, prototyping, and visualizations
 
-🛠️ Dev Tools & Productivity
+# 🛠️ Dev Tools & Productivity
 VSCode – My primary editor for everything dev
 
 Figma – For UI/UX prototyping and design collaboration
@@ -74,7 +74,7 @@ Storybook – Component-driven UI development and testing
  </br>
  </br>
 
-💡 Interests & Vision </br>
+# 💡 Interests & Vision </br>
 🤖 Generative AI — Building tools that think, assist, and learn
 
 🧱 System Architecture — Designing modular, scalable, and secure solutions
@@ -83,7 +83,7 @@ Storybook – Component-driven UI development and testing
 
 🧬 AI + Cloud Fusion — Bringing intelligence to cloud-native ecosystems
 
-🔗 Let’s Connect
+# 🔗 Let’s Connect
 💼 LinkedIn – Srikanth Reddy
 
 🌐 Portfolio: Coming Soon
