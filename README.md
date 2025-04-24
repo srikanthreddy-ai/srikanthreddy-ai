@@ -20,7 +20,7 @@ I’m a Senior Software Engineer & AI Cloud Specialist passionate about designin
 👥 Mentor & Collaborator: I enjoy mentoring devs and driving high-impact engineering culture
 
 
-# # 🧰 Tech Stack & Tools I Love </br>
+##🧰 Tech Stack & Tools I Love </br>
 # 💻 Languages & Frameworks   </br>
 Python – My go-to for AI, backend services, and automation
 
