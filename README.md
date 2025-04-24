@@ -1,4 +1,4 @@
-# 👋 Hey there, I'm Srikanth Reddy!
+# 👋 Hey there, I'm Sreekanth Reddy!
 🚀 Lead Full-Stack Developer | AI Cloud Engineer | Software Architect </br>
 
 Bridging code, cloud, and intelligence to build future-ready platforms.
@@ -84,10 +84,10 @@ Storybook – Component-driven UI development and testing
 🧬 AI + Cloud Fusion — Bringing intelligence to cloud-native ecosystems
 
 # 🔗 Let’s Connect
-💼 LinkedIn – Srikanth Reddy
+💼 LinkedIn – Sreekanth Reddy
 
 🌐 Portfolio: Coming Soon
 
-📬 srikanthreddy097@gmail.com
+📬 srikanthreddy097@gmail.com || +91 7032467395
 
 “Code is poetry. Architecture is its rhythm. Intelligence gives it soul.”
