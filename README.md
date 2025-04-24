@@ -1,4 +1,4 @@
-👋 Hey there, I'm Srikanth Reddy!
+# 👋 Hey there, I'm Srikanth Reddy!
 🚀 Lead Full-Stack Developer | AI Cloud Engineer | Software Architect </br>
 
 Bridging code, cloud, and intelligence to build future-ready platforms.
@@ -6,7 +6,7 @@ Bridging code, cloud, and intelligence to build future-ready platforms.
 
 <sup>📌 (Banner placeholder – see below for how to customize your own!)</sup>
 
-🧠 About Me
+# 🧠 About Me
 I’m a Senior Software Engineer & AI Cloud Specialist passionate about designing and delivering intelligent, scalable, cloud-native solutions. With a strong foundation in DevOps, full-stack development, and AI integration, I lead cross-functional teams to build products that are both robust and innovative.
 
 🏗️ Leading development of AI-first platforms from architecture to deployment
@@ -20,8 +20,8 @@ I’m a Senior Software Engineer & AI Cloud Specialist passionate about designin
 👥 Mentor & Collaborator: I enjoy mentoring devs and driving high-impact engineering culture
 
 
-🧰 Tech Stack & Tools I Love </br>
-💻 Languages & Frameworks   </br>
+# # 🧰 Tech Stack & Tools I Love </br>
+# 💻 Languages & Frameworks   </br>
 Python – My go-to for AI, backend services, and automation
 
 TypeScript & JavaScript – Clean and scalable for modern frontends
