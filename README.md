@@ -20,13 +20,61 @@ I’m a Senior Software Engineer & AI Cloud Specialist passionate about designin
 👥 Mentor & Collaborator: I enjoy mentoring devs and driving high-impact engineering culture
 
 
+🧰 Tech Stack & Tools I Love </br>
+💻 Languages & Frameworks   </br>
+Python – My go-to for AI, backend services, and automation
 
+TypeScript & JavaScript – Clean and scalable for modern frontends
 
+React.js – Component-based UI development for SPAs and dashboards
 
+FastAPI – Lightning-fast Python APIs with automatic docs
 
+Node.js – For scalable, event-driven backend services
 
+PostgreSQL | MongoDB – Reliable relational and flexible NoSQL databases
 
-💡 Interests & Vision
+☁️ Cloud & DevOps
+AWS | Azure – Cloud-native development, serverless, container orchestration
+
+Docker – Containerized environments for consistency and scalability
+
+Kubernetes – Managing distributed systems and microservices at scale
+
+Terraform – Infrastructure as code to automate and manage cloud infrastructure
+
+GitHub Actions – CI/CD workflows for automated testing and deployment
+
+Linux & Shell Scripting – Essential tools for automation and server-side scripting
+ </br>
+🧠 AI & ML Tools  </br>
+OpenAI (GPT-4, Whisper) – Language understanding, generative tasks, assistants
+
+LangChain – Building LLM-powered applications and agents
+
+LLaMA, Hugging Face – Open-source models and transformers
+
+Vector Databases (Pinecone, FAISS) – Semantic search & retrieval augmented generation
+
+Jupyter Notebooks – Exploratory ML, prototyping, and visualizations
+
+🛠️ Dev Tools & Productivity
+VSCode – My primary editor for everything dev
+
+Figma – For UI/UX prototyping and design collaboration
+
+Postman – API testing and documentation made easy
+
+Swagger / OpenAPI – Designing and documenting APIs
+
+Git & GitHub – Version control, collaboration, and automation
+
+Storybook – Component-driven UI development and testing
+
+ </br>
+ </br>
+
+💡 Interests & Vision </br>
 🤖 Generative AI — Building tools that think, assist, and learn
 
 🧱 System Architecture — Designing modular, scalable, and secure solutions
