@@ -84,7 +84,7 @@ Storybook – Component-driven UI development and testing
 🧬 AI + Cloud Fusion — Bringing intelligence to cloud-native ecosystems
 
 # 🔗 Let’s Connect
-💼 LinkedIn – Sreekanth Reddy
+💼 LinkedIn – [Sreekanth Reddy](https://www.linkedin.com/in/sreekanth-reddy-ai/)
 
 🌐 Portfolio: Coming Soon
 
