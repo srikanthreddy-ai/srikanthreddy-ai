@@ -4,7 +4,7 @@
 Bridging code, cloud, and intelligence to build future-ready platforms.
 
 
-<sup>📌 <img src="https://raw.githubusercontent.com/sreekanthreddy/sreekanthreddy/main/assets/banner.png" alt="Sreekanth Reddy Polireddy" width="100%" /></sup>
+📌 <img src="https://raw.githubusercontent.com/srikanthreddy-ai/srikanthreddy-ai/main/assets/banner.png" alt="Sreekanth Reddy Polireddy" width="100%" />
 
 # 🧠 About Me
 I’m a Senior Software Engineer & AI Cloud Specialist passionate about designing and delivering intelligent, scalable, cloud-native solutions. With a strong foundation in DevOps, full-stack development, and AI integration, I lead cross-functional teams to build products that are both robust and innovative.
