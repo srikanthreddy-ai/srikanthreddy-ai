@@ -18,3 +18,28 @@ I’m a Senior Software Engineer & AI Cloud Specialist passionate about designin
 ⚙️ Engineering Excellence: I write clean, testable, and scalable code with performance in mind
 
 👥 Mentor & Collaborator: I enjoy mentoring devs and driving high-impact engineering culture
+
+
+
+
+
+
+
+
+💡 Interests & Vision
+🤖 Generative AI — Building tools that think, assist, and learn
+
+🧱 System Architecture — Designing modular, scalable, and secure solutions
+
+🌐 Edge Computing & SaaS — Crafting performance-critical, distributed applications
+
+🧬 AI + Cloud Fusion — Bringing intelligence to cloud-native ecosystems
+
+🔗 Let’s Connect
+💼 LinkedIn – Srikanth Reddy
+
+🌐 Portfolio: Coming Soon
+
+📬 srikanthreddy097@gmail.com
+
+“Code is poetry. Architecture is its rhythm. Intelligence gives it soul.”
