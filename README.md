@@ -86,7 +86,7 @@ Storybook – Component-driven UI development and testing
 # 🔗 Let’s Connect
 💼 LinkedIn – [Sreekanth Reddy](https://www.linkedin.com/in/sreekanth-reddy-ai/)
 
-🌐 Portfolio: Coming Soon
+🌐 Portfolio: [Portfolio](https://sreekanth-reddy.netlify.app/)
 
 📬 srikanthreddy097@gmail.com || +91 7032467395
 
